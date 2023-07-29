@@ -1,12 +1,11 @@
 {
   "name": "backend",
-  "version": "1z.0.0",
+  "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "start-dev": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
